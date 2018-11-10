@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-test",
+  "version": "0.0.1",
+  "description": "description",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirinTor/nodejs-test.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Valerii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KirinTor/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/KirinTor/nodejs-test#readme",
+  "dependencies": {
+    "metarhia-common": "0.0.37"
+  }
+}
